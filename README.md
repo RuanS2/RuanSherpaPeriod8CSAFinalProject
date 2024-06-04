@@ -1,0 +1,1 @@
+This is a discord chat gpt bot that focuses on fact checking. Use FACT CHECK: Message to fact check a typed message. Use @username + ' !' to fact check a specifc users most recent message. Use ASK: to ask the bot a question. You can also reply to the bot to create a thread of replies. This bot was made using a tutorial and chat gpt. https://www.youtube.com/watch?v=EUlnKW6Yy94 
